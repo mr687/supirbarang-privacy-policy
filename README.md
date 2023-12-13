@@ -21,7 +21,7 @@
 
 <h2>Privacy Policies</h2>
 
-<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Supir Barang.</p>
+<p>You may consult this list to find the Privacy Policy for each of the advertising partners of Supir Barang.</p>
 
 <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Beacons that are used in their respective advertisements and links that appear on Supir Barang. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on this app or other apps or websites.</p>
 
